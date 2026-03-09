@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <cJSON.h>
-
 void suma(float num1, float num2);
 void resta(float num1, float num2);
 void multiplicacion(float num1, float num2);
